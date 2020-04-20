@@ -1,6 +1,6 @@
 # Tabs Navigation UI
 
-[Check the demo](https://codepen.io/nat-davydova/pen/PMJJRM)
+[Check the demo](https://codepen.io/TrasherDK/pen/oKprqQ)
 
 - Pug/HTML
 - SCSS/CSS
